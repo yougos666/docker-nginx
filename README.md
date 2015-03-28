@@ -11,8 +11,8 @@ Installation
 --------------
 
 - Clone project
-- Launch build: "docker build -t domofwk/nginx ."
+- Launch build: "docker build -t yougos666/nginx ."
 
 Launch Docker container
 --------------
-docker run -d -p 80:80 domofwk/nginx
+docker run -d -p 80:80 yougos666/nginx
